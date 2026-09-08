@@ -36,7 +36,7 @@ Power BI report demonstrating data modeling and visualization best practices.
 
 📫 Let's Connect
 
-Open to Data Analyst / Business Analyst opportunities — feel free to reach out via https://www.linkedin.com/in/ujjawal-kumar-2162a5186/ 
+Open to Data Analyst / Business Analyst opportunities — feel free to reach out via https://www.linkedin.com/in/ujjawal-kumar-2162a5186/ or +917991791025 
 <!--
 **ujjawal029/ujjawal029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
