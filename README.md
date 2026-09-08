@@ -13,9 +13,7 @@ I turn raw data into decisions — building dashboards, automating reports, and 
 
 🌱 Focus areas: data cleaning & EDA, ETL pipelines, KPI analysis, dashboard automation
 
-🛠️ Skills
-
-SQL, Python (Pandas, NumPy), Power BI, Excel (Advanced), Data Cleaning, EDA, ETL, KPI & Business Analysis, Dashboard Automation
+🛠️ Skills: SQL, Python (Pandas, NumPy), Power BI, Excel (Advanced), Data Cleaning, EDA, ETL, KPI & Business Analysis, Dashboard Automation
 
 📊 Featured Projects
 Amazon Prime Dashboard — Power BI
@@ -38,7 +36,7 @@ Power BI report demonstrating data modeling and visualization best practices.
 
 📫 Let's Connect
 
-Open to Data Analyst / Business Analyst opportunities — feel free to reach out via https://www.linkedin.com/in/ujjawal-kumar-2162a5186/.
+Open to Data Analyst / Business Analyst opportunities — feel free to reach out via https://www.linkedin.com/in/ujjawal-kumar-2162a5186/ 
 <!--
 **ujjawal029/ujjawal029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
