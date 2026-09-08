@@ -3,10 +3,14 @@ Data Analyst | 4+ Years Experience | SQL · Python · Power BI · Excel
 
 I turn raw data into decisions — building dashboards, automating reports, and surfacing the insights that drive business performance.
 
-🔭 Currently: Open to Data/Business Analyst roles /n
-🏢 Most recently: Analyst at Transcom (Jul 2024 - Apr 2026) /n
-🏢 Previously: Programmer Analyst at Cognizant (Sep 2021 – Mar 2024) /n
-🎓 BTech, Electronics & Communications Engineering — BPIT, Delhi /n
+🔭 Currently: Open to Data/Business Analyst roles
+
+🏢 Most recently: Analyst at Transcom (Jul 2024 - Apr 2026) 
+
+🏢 Previously: Programmer Analyst at Cognizant (Sep 2021 – Mar 2024) 
+
+🎓 BTech, Electronics & Communications Engineering — BPIT, Delhi 
+
 🌱 Focus areas: data cleaning & EDA, ETL pipelines, KPI analysis, dashboard automation
 
 🛠️ Skills
